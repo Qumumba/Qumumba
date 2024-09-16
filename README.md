@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Qumumba/Qumumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://github.com/user-attachments/assets/ecedfde1-ca31-41ae-af38-b9259ccb3ead)
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Portfolio
+
+### ❯　💼 Profession: Full-Stack Developer
+
+### ❯　📍 Location: UK　🇬🇧
+
+### ❯　[🌐 Site](https://qumu.mba)
