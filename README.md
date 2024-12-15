@@ -10,6 +10,6 @@
 
 ### ❯　💼 Profession: Full-Stack Developer
 
-### ❯　📍 Location: UK 🇬🇧
+### ❯　📍 Location: UK    🇬🇧
 
 ### ❯　[🌐 Site](https://qumu.mba)
