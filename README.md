@@ -1,15 +1,13 @@
 <div align="center">
 
-![Logo](https://github.com/user-attachments/assets/ecedfde1-ca31-41ae-af38-b9259ccb3ead)
+[![Logo](https://github.com/user-attachments/assets/ecedfde1-ca31-41ae-af38-b9259ccb3ead)](https://qumu.mba)
 
-&nbsp;
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fqumu.mba&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIHY3LjIuMCBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIENvcHlyaWdodCAyMDI2IEZvbnRpY29ucywgSW5jLi0tPjxwYXRoIGZpbGw9InJnYigyNTUsIDI1NSwgMjU1KSIgZD0iTTM1MS45IDI4MGwtMTkwLjkgMGMyLjkgNjQuNSAxNy4yIDEyMy45IDM3LjUgMTY3LjQgMTEuNCAyNC41IDIzLjcgNDEuOCAzNS4xIDUyLjQgMTEuMiAxMC41IDE4LjkgMTIuMiAyMi45IDEyLjJzMTEuNy0xLjcgMjIuOS0xMi4yYzExLjQtMTAuNiAyMy43LTI4IDM1LjEtNTIuNCAyMC4zLTQzLjUgMzQuNi0xMDIuOSAzNy41LTE2Ny40ek0xNjAuOSAyMzJsMTkwLjkgMEMzNDkgMTY3LjUgMzM0LjcgMTA4LjEgMzE0LjQgNjQuNiAzMDMgNDAuMiAyOTAuNyAyMi44IDI3OS4zIDEyLjIgMjY4LjEgMS43IDI2MC40IDAgMjU2LjQgMHMtMTEuNyAxLjctMjIuOSAxMi4yYy0xMS40IDEwLjYtMjMuNyAyOC0zNS4xIDUyLjQtMjAuMyA0My41LTM0LjYgMTAyLjktMzcuNSAxNjcuNHptLTQ4IDBDMTE2LjQgMTQ2LjQgMTM4LjUgNjYuOSAxNzAuOCAxNC43IDc4LjcgNDcuMyAxMC45IDEzMS4yIDEuNSAyMzJsMTExLjQgMHpNMS41IDI4MGM5LjQgMTAwLjggNzcuMiAxODQuNyAxNjkuMyAyMTcuMy0zMi4zLTUyLjItNTQuNC0xMzEuNy01Ny45LTIxNy4zTDEuNSAyODB6bTM5OC40IDBjLTMuNSA4NS42LTI1LjYgMTY1LjEtNTcuOSAyMTcuMyA5Mi4xLTMyLjcgMTU5LjktMTE2LjUgMTY5LjMtMjE3LjNsLTExMS40IDB6bTExMS40LTQ4QzUwMS45IDEzMS4yIDQzNC4xIDQ3LjMgMzQyIDE0LjcgMzc0LjMgNjYuOSAzOTYuNCAxNDYuNCAzOTkuOSAyMzJsMTExLjQgMHoiLz48L3N2Zz4=&label=qumu.mba&labelColor=3f3f46&up_color=29ac47&up_message=online&down_color=fb2c36&down_message=offline)](https://qumu.mba)
 
-# Portfolio
+## Qumumba
 
 </div>
 
 ### ❯　💼 Profession: Full-Stack Developer
 
 ### ❯　📍 Location: UK    🇬🇧
-
-### ❯　[🌐 Site](https://qumu.mba)
